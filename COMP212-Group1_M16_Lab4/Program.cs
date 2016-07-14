@@ -48,6 +48,8 @@ namespace COMP212_Group1_M16_Lab4
             Console.WriteLine(coded);
             Console.Write("Decoded word    :");
             Console.WriteLine(decoded);
+
+            //Console.ReadLine();
         }
     }
 }
